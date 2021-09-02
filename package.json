@@ -1,0 +1,26 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masudahmed88/TeamProfileGenerator.git"
+  },
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masudahmed88/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/masudahmed88/TeamProfileGenerator#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
